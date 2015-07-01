@@ -72,3 +72,32 @@
 ### JS
 
 - [前端：将网站打造成单页面应用SPA（一）](http://hao.jser.com/archive/7948/)
+
+## 2015/07/01
+
+### Node
+
+- [cnpm: 淘宝 NPM 镜像](https://npm.taobao.org)
+
+### Express
+
+- [lowdb: simple local JSON db](https://github.com/typicode/lowdb)
+- \* [How to use EJS in Express](http://robdodson.me/how-to-use-ejs-in-express/)
+- [node-dev : automatically restarts the node process when a file is modified](https://github.com/fgnass/node-dev)
+- [ejs](http://www.embeddedjs.com)
+- \* [Use EJS to Template Your Node Application](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
+- muti-language:
+    - [多语言 jquery/globalize](https://github.com/jquery/globalize)
+    - [i18n Module for Node and Express.js](http://ejohn.org/blog/i18n-module-for-node-and-express-js/)
+    - [i18n](https://github.com/mashpie/i18n-node)
+    - [i18n-node-2](https://github.com/jeresig/i18n-node-2)
+    - [node-localize](https://github.com/AGROSICA/node-localize)
+    
+
+### Grunt
+
+- [grunt 中 ejs-static 配置](http://blog.csdn.net/jyy_12/article/details/19628181)
+
+### Cookie
+
+- [Document.cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
