@@ -92,6 +92,7 @@
     - [i18n](https://github.com/mashpie/i18n-node)
     - [i18n-node-2](https://github.com/jeresig/i18n-node-2)
     - [node-localize](https://github.com/AGROSICA/node-localize)
+    - [Nodejs - Internationalization in Express with i18n and i18n-2](https://truongtx.me/2014/03/20/nodejs-internationalization-in-express-with-i18n-i18n-2/)
     
 
 ### Grunt
@@ -101,3 +102,58 @@
 ### Cookie
 
 - [Document.cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+
+## 2015/07/02
+
+- [gengo.js : node i18n middleware](http://www.gengojs.com/)
+
+## 2015/07/03
+
+- [PM2-github](https://github.com/Unitech/pm2)
+- [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
+- [pm2部署nodejs线上环境](http://www.boiajs.com/2014/12/30/pm2-begin-nodejs-production/)
+- [configure node express to serve static bower_components?](http://stackoverflow.com/questions/21821773/configure-node-express-to-serve-static-bower-components)
+- [Building an Angular and Express App Part 1](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/)
+- [expressjs/cookie-parser](https://github.com/expressjs/cookie-parser)
+
+## 2015/07/06
+
+### ubuntu search packages
+
+To search for a particular package by name or description:
+From the command-line, use:
+
+    apt-cache search keyword
+
+where the search keyword can be all or part of a package name or any words used in its description.
+
+[Reference source](http://askubuntu.com/questions/160897/how-do-i-search-for-available-packages-from-the-command-line)
+
+
+### Express router 跳转链接：
+
+```
+router.get('/', function(req, res) {
+  //URL 重定向，跳转
+  res.redirect('/#games');
+});
+```
+
+### Express Cookie
+
+- [expressjs/cookie-parser](https://github.com/expressjs/cookie-parser?_ga=1.231305628.2059831723.1435722677)
+
+```
+app.get('/', function(req, res) {
+  console.log("Cookies: ", req.cookies)
+})
+```
+
+### JS
+
+- [阮一峰：数据类型和Json格式](数据类型和Json格式)
+
+### HTML 5
+
+- [HTML5 中 div section article 的区别](http://www.qianduan.net/html5-differences-in-the-div-section-article/)
+
