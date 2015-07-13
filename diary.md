@@ -83,6 +83,7 @@
 
 - [lowdb: simple local JSON db](https://github.com/typicode/lowdb)
 - \* [How to use EJS in Express](http://robdodson.me/how-to-use-ejs-in-express/)
+- [A simple example application using express, ejs, and nodemon](http://superbigtree.tumblr.com/post/62759231807/a-simple-example-application-using-express-ejs)
 - [node-dev : automatically restarts the node process when a file is modified](https://github.com/fgnass/node-dev)
 - [ejs](http://www.embeddedjs.com)
 - \* [Use EJS to Template Your Node Application](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
@@ -93,6 +94,7 @@
     - [i18n-node-2](https://github.com/jeresig/i18n-node-2)
     - [node-localize](https://github.com/AGROSICA/node-localize)
     - [Nodejs - Internationalization in Express with i18n and i18n-2](https://truongtx.me/2014/03/20/nodejs-internationalization-in-express-with-i18n-i18n-2/)
+    - [网站国际化(i18n)应该怎么做？i18n-node + handlebars实现的例子](http://segmentfault.com/a/1190000002632604)
     
 
 ### Grunt
@@ -112,6 +114,7 @@
 - [PM2-github](https://github.com/Unitech/pm2)
 - [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 - [pm2部署nodejs线上环境](http://www.boiajs.com/2014/12/30/pm2-begin-nodejs-production/)
+- [PM2 介绍](http://www.douban.com/note/314200231/)
 - [configure node express to serve static bower_components?](http://stackoverflow.com/questions/21821773/configure-node-express-to-serve-static-bower-components)
 - [Building an Angular and Express App Part 1](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/)
 - [expressjs/cookie-parser](https://github.com/expressjs/cookie-parser)
@@ -157,3 +160,75 @@ app.get('/', function(req, res) {
 
 - [HTML5 中 div section article 的区别](http://www.qianduan.net/html5-differences-in-the-div-section-article/)
 
+## 2015/07/07
+
+### JSON
+
+- [jsonlint 在线 JSON 格式检查](http://jsonlint.com/)
+- [atom-jsonlint package](https://github.com/tcarlsen/atom-jsonlint)
+
+## 2015/07/08
+
+- [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+- [快速搭建Web环境 Angularjs + Express3 + Bootstrap3](http://blog.fens.me/angularjs-express3-bootstrap3/)
+
+### Node 生产环境部署
+
+- [node.js在生产（线上）环境中的部署的一点思考总结](https://github.com/EchoFUN/melodycoder/issues/3)
+- [Node.js企业开发: 四正式环境部署](http://n.thepana.com/2014/01/25/application_deploy/)
+
+### JS
+
+```
+var timeInMs = Date.now();
+```
+
+The [Date.now()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now) method returns the number of milliseconds elapsed since 1 January 1970 00:00:00 UTC.
+
+- [怎样快速而优雅地遍历 JavaScript 数组](https://hyjk2000.github.io/2011/06/09/optimizing-javascript-array-traversing/)
+- [airbnb javascript Rules](https://github.com/airbnb/javascript/blob/master/README.md)
+
+#### javascript 变量命名规则
+
+1. 首字符不能是数字、可以是美元符号 $ 以及下划线 _
+2. 由字母、数字、下划线、美元符号组成
+3. 区分大小写
+
+注意：在函数中定义变量时，没写  var  则是全局变量。
+
+#### JavaScript 变量命名规则：匈牙利命名法
+
+> 变量名＝类型＋对象描述
+
+JavaScript变量起名类型 |	变量命名前缀
+---|---
+Array 数组 | a
+Boolean 布尔 | b
+Float 浮点 | l
+Function 函数 | f
+Integer(int) 整型 | n
+Object 对象 | o
+Regular Expression 正则 | r
+String 字符串 | s
+
+##### 示例：
+
+```
+var aName = ['zhangsan','lizi','zhaowu'];  //Array 数组
+var oBtn = window.document.getElementById('btn');  //Object 对象
+function fnName(){};  //Function 函数
+var nAge = 25;  //Integer(int) 整型
+var sWebURL="www.wangyingran.com";  //String 字符串
+```
+
+- [如何优雅的把JSON转换成HTML标签？](http://segmentfault.com/q/1010000000477046)
+- [json2html](https://github.com/moappi/json2html)
+
+
+2015/07/09
+=====
+
+- [阮一峰：如何判断Javascript对象是否存在](http://www.ruanyifeng.com/blog/2011/05/how_to_judge_the_existence_of_a_global_object_in_javasc- ript.html)
+- [express History doc](https://github.com/strongloop/express/blob/master/History.md)
+- [HTML Language Code Reference: lang=""](http://www.w3schools.com/tags/ref_language_codes.asp)
+- 
