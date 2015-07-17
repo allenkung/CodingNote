@@ -231,4 +231,53 @@ var sWebURL="www.wangyingran.com";  //String 字符串
 - [阮一峰：如何判断Javascript对象是否存在](http://www.ruanyifeng.com/blog/2011/05/how_to_judge_the_existence_of_a_global_object_in_javasc- ript.html)
 - [express History doc](https://github.com/strongloop/express/blob/master/History.md)
 - [HTML Language Code Reference: lang=""](http://www.w3schools.com/tags/ref_language_codes.asp)
-- 
+
+# 2015-07-14
+
+- [每天一个linux命令（35）：ln 命令](http://www.cnblogs.com/peida/archive/2012/12/11/2812294.html)
+
+```
+ln [参数 -s: 软链接] [源文件或目录] [目标文件或目录]
+```
+
+# 2015-07-17
+
+## Node.js environment
+
+To alter the environment we can set the NODE_ENV environment variable, for example:
+
+```
+$ NODE_ENV=production node app.js
+```
+
+```
+app.configure(function(){
+    app.use(express.methodOverride());
+    app.use(express.bodyParser());
+    app.use(app.router);
+});
+
+app.configure('development', function(){
+    app.use(express.static(__dirname + '/public'));
+    app.use(express.errorHandler({ dumpExceptions: true, showStack: true }));
+});
+
+app.configure('production', function(){
+  var oneYear = 31557600000;
+  app.use(express.static(__dirname + '/public', { maxAge: oneYear }));
+  app.use(express.errorHandler());
+});
+```
+## Node 404
+
+把通配符放于最后处理。这样没有经过路由的所有页面默认由 404.html 来接管。
+
+```
+app.get('*', function(req, res) {
+    console.log('404 handler..')
+    res.render('pages/404', {
+    status: 404,
+	title: 'NodeBlog',
+	});
+});
+```
