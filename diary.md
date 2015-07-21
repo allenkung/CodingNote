@@ -316,4 +316,19 @@ $ git reset --hard HEAD^
 - [npm精粹第一章 -- 你好，npm！](http://www.html-js.com/article/The-essence-of-the-essence-of-the-first-chapter-of-NPM-NPM-Hello-npm)
 - [linux-Web笔记：在ubuntu上进行node.js安装、开发等](http://www.thinkful.cn/archives/510.html)
 - [Node.js + Express(jade模板引擎) + MongoDB的例子](http://segmentfault.com/q/1010000000166257)
-- 
+
+### 压缩与解压缩：
+```
+tar xvf wordpress.tar       ####解压tar格式的文件####
+tar -tvf myfile.tar       ####查看tar文件中包含的文件 ####
+tar cf toole.tar tool       ####把tool目录打包为toole.tar文件####
+tar cfz xwyme.tar.gz tool   ####把tool目录打包且压缩为xwyme.tar.gz文件，因为.tar文件几乎是没有压缩过的，MT的.tar.gz文件解压成.tar文件后差不多是10MB ####
+tar jcvf /var/bak/www.tar.bz2 /var/www/       ####创建.tar.bz2文件，压缩率高####
+tar xjf www.tar.bz2       ####解压tar.bz2格式####
+gzip -d ge.tar.gz       ####解压.tar.gz文件为.tar文件####
+unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz格式的文件还是有点麻烦的
+```
+[centos tar压缩与解压缩命令大全](http://www.centoscn.com/CentOS/help/2013/0725/496.html)
+
+- [如虎添翼！20个精心挑选新鲜好用的前端开发工具](http://www.uisdc.com/20-fresh-handpicked-development-tools)
+- [英国牛津图书馆数字项目](http://digital.bodleian.ox.ac.uk)
