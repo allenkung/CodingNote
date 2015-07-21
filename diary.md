@@ -176,6 +176,9 @@ app.get('/', function(req, res) {
 
 - [node.js在生产（线上）环境中的部署的一点思考总结](https://github.com/EchoFUN/melodycoder/issues/3)
 - [Node.js企业开发: 四正式环境部署](http://n.thepana.com/2014/01/25/application_deploy/)
+- [一种简单的生产环境部署Node.js程序方法](https://cnodejs.org/topic/53fec0d97c1e2284788983d6)
+- [How To Set Up a Node.js Application for Production on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04)
+- 
 
 ### JS
 
@@ -281,3 +284,36 @@ app.get('*', function(req, res) {
 	});
 });
 ```
+
+# 2015-07-20
+
+## HTML5 峰会
+
+- [dcloud.io](http://dcloud.io)
+- [Node Profiler 朴灵](http://alinode.aliyun.com)
+- [egret 白鹭](http://www.egret.com)
+- [移动开发模式 - Native，HTML5，Hybrid](http://blog.csdn.net/pan_tian/article/details/17964087)
+- [Hybird 百度百科](http://baike.baidu.com/view/8488720.htm)
+- [git 版本回退](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000)
+
+```
+$ git reset --hard HEAD^
+```
+
+- [网页设计中最常见的30款英文字体](http://www.uisdc.com/30-west-typegraph-in-web-design)
+- [CSS: Animation Using CSS Transforms](http://www.the-art-of-web.com/css/css-animation/)
+- [npm-reload](https://www.npmjs.com/package/reload)
+- [Negative margin on '.navbar-right:last-child' in Navbar is a miscalculation](https://github.com/twbs/bootstrap/issues/13325)
+- [Comparison: Tools to Automate Restarting Node.js Server After Code Changes](https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/)
+- [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
+- [Social Buttons for Bootstrap](http://lipis.github.io/bootstrap-social/)
+
+- [第 3 章　省时省力的Express](http://www.ituring.com.cn/tupubarticle/2847)
+- [node.js express 运行环境 NODE_ENV](http://blog.csdn.net/clh604/article/details/8491149)
+- [JavaScript声明全局变量三种方式的异同](http://www.cnblogs.com/snandy/archive/2011/03/19/1988284.html)
+- [完美的 jQuery 网页进度条](http://loo2k.com/blog/jquery-loading-bar/)
+- [expressSimpleBlog](https://github.com/huseyinbabal/expressSimpleBlog)
+- [npm精粹第一章 -- 你好，npm！](http://www.html-js.com/article/The-essence-of-the-essence-of-the-first-chapter-of-NPM-NPM-Hello-npm)
+- [linux-Web笔记：在ubuntu上进行node.js安装、开发等](http://www.thinkful.cn/archives/510.html)
+- [Node.js + Express(jade模板引擎) + MongoDB的例子](http://segmentfault.com/q/1010000000166257)
+- 
