@@ -332,3 +332,7 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 
 - [如虎添翼！20个精心挑选新鲜好用的前端开发工具](http://www.uisdc.com/20-fresh-handpicked-development-tools)
 - [英国牛津图书馆数字项目](http://digital.bodleian.ox.ac.uk)
+
+## 2015-07-22
+
+- [lightbox: swipebox](http://brutaldesign.github.io/swipebox/)
