@@ -175,7 +175,7 @@ app.get('/', function(req, res) {
 ### Node 生产环境部署
 
 - [node.js在生产（线上）环境中的部署的一点思考总结](https://github.com/EchoFUN/melodycoder/issues/3)
-- [Node.js企业开发: 四正式环境部署](http://n.thepana.com/2014/01/25/application_deploy/)
+- [\* Node.js企业开发: 四正式环境部署](http://n.thepana.com/2014/01/25/application_deploy/)
 - [一种简单的生产环境部署Node.js程序方法](https://cnodejs.org/topic/53fec0d97c1e2284788983d6)
 - [How To Set Up a Node.js Application for Production on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04)
 - 
@@ -336,3 +336,9 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 ## 2015-07-22
 
 - [lightbox: swipebox](http://brutaldesign.github.io/swipebox/)
+
+## 2015-07-24
+
+- [nodejs高大上的部署方式-PM2](http://www.cnblogs.com/zhoujie/p/nodejs4.html)
+- [26,269 After Effects Templates](http://videohive.net/category/after-effects-project-files)
+- 
