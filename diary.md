@@ -341,4 +341,6 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 
 - [nodejs高大上的部署方式-PM2](http://www.cnblogs.com/zhoujie/p/nodejs4.html)
 - [26,269 After Effects Templates](http://videohive.net/category/after-effects-project-files)
+- [nginx反向代理配置](http://www.nginx.cn/927.html)
+- [折腾: Nginx 方便的反向代理](http://zww.me/z-turn-the-reverse-proxy-nginx-easily.z-turn)
 - 
