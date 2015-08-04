@@ -307,7 +307,6 @@ $ git reset --hard HEAD^
 - [Comparison: Tools to Automate Restarting Node.js Server After Code Changes](https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/)
 - [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 - [Social Buttons for Bootstrap](http://lipis.github.io/bootstrap-social/)
-
 - [第 3 章　省时省力的Express](http://www.ituring.com.cn/tupubarticle/2847)
 - [node.js express 运行环境 NODE_ENV](http://blog.csdn.net/clh604/article/details/8491149)
 - [JavaScript声明全局变量三种方式的异同](http://www.cnblogs.com/snandy/archive/2011/03/19/1988284.html)
@@ -343,4 +342,22 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 - [26,269 After Effects Templates](http://videohive.net/category/after-effects-project-files)
 - [nginx反向代理配置](http://www.nginx.cn/927.html)
 - [折腾: Nginx 方便的反向代理](http://zww.me/z-turn-the-reverse-proxy-nginx-easily.z-turn)
+
+## 2015-07-31
+
+- [总结个人2015提高前端效率的方法和工具](http://hao.jser.com/archive/8111/)
+- [JavaScript 的常见“陷阱”](http://www.ghostchina.com/common-- javascript-gotchas/)
+- [如何判断Javascript对象是否存在](http://www.ruanyifeng.com/blog/2011/05/how_to_judge_the_existence_of_a_global_object_in_javascript.html)
+- [JavaScript 阶段总结思维导图](http://www.codefrom.com/paper/JavaScript%20阶段总结思维导图)
+- [中国独立游戏大赛](http://www.indieplay.cn)
+- [The Power of Now](http://zicai.github.io)
+- [Install MongoDB on OS X](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
+- [第一章 MongoDB入门](https://github.com/yuanzm/Node-Chat-Demo/wiki/第一章--MongoDB入门)
+- [MongoDB入门学习](http://blog.csdn.net/rjfxd/article/details/12108909)
+- [mongolab/mongodb-driver-examples](https://github.com/mongolab/mongodb-driver-examples/blob/master/nodejs/mongooseSimpleExample.js)
+- [https://mongolab.com](https://mongolab.com)
+- [Free Stock Photography Resources](https://medium.com/@vilcins/free-stock-photography-resources-437db8b9c94)
+
+## 2015-08-03
+
 - 
