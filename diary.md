@@ -358,6 +358,13 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 - [https://mongolab.com](https://mongolab.com)
 - [Free Stock Photography Resources](https://medium.com/@vilcins/free-stock-photography-resources-437db8b9c94)
 
-## 2015-08-03
+## 2015-08-04
 
+- [李老师AE视频教程合辑+海量素材插件](http://tieba.baidu.com/p/3769363396)
+- [52VFX我爱特效网](http://videocopilot.net.cn)
+
+## 2015-08-05
+
+- [Spritemapper - CSS Spite Tool](http://yostudios.github.io/Spritemapper/)
+- [阮一峰：Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
 - 
