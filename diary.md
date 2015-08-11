@@ -367,4 +367,9 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 
 - [Spritemapper - CSS Spite Tool](http://yostudios.github.io/Spritemapper/)
 - [阮一峰：Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
+
+## 2015-08-07
+
+- [jQuery Mobile Github](https://github.com/jquery/jquery-mobile)
+- [Semantic HTML](http://justineo.github.io/slideshows/semantic-html/#/)
 - 
