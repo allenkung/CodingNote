@@ -372,4 +372,19 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 
 - [jQuery Mobile Github](https://github.com/jquery/jquery-mobile)
 - [Semantic HTML](http://justineo.github.io/slideshows/semantic-html/#/)
-- 
+
+## 2015-08-12
+
+- [mailchimp](http://mailchimp.com)
+- [usertesting.com 真人测试](http://www.usertesting.com)
+- [fireflygames.com](http://www.fireflygames.com)
+- [linux权限修改](http://www.cnblogs.com/CgenJ/archive/2011/07/28/2119454.html)
+
+```
+chmod 664 a.txt
+// rwx合起来就是4 2 1＝7
+// -rw-r--r-- = 664
+```
+
+- [【ghost初级教程】 怎么搭建一个免费的ghost博客](http://www.html-js.com/article/Study-on-the-ghost-blog-system-ghost-junior-tutorial-how-to-build-a-free-ghost-blog)
+- [Blog Logo 葵中剑@剑空 Ghost](http://swordair.com/tag/ghost-post/)
