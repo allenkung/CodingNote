@@ -346,7 +346,7 @@ unzip phpbb.zip       ####解压zip文件，windows下要压缩出一个.tar.gz�
 ## 2015-07-31
 
 - [总结个人2015提高前端效率的方法和工具](http://hao.jser.com/archive/8111/)
-- [JavaScript 的常见“陷阱”](http://www.ghostchina.com/common-- javascript-gotchas/)
+- [JavaScript 的常见“陷阱”](http://www.ghostchina.com/)
 - [如何判断Javascript对象是否存在](http://www.ruanyifeng.com/blog/2011/05/how_to_judge_the_existence_of_a_global_object_in_javascript.html)
 - [JavaScript 阶段总结思维导图](http://www.codefrom.com/paper/JavaScript%20阶段总结思维导图)
 - [中国独立游戏大赛](http://www.indieplay.cn)
@@ -388,3 +388,8 @@ chmod 664 a.txt
 
 - [【ghost初级教程】 怎么搭建一个免费的ghost博客](http://www.html-js.com/article/Study-on-the-ghost-blog-system-ghost-junior-tutorial-how-to-build-a-free-ghost-blog)
 - [Blog Logo 葵中剑@剑空 Ghost](http://swordair.com/tag/ghost-post/)
+
+
+## 2015-08-14
+
+- [Android: Security and Design](http://developer.android.com/google/play/billing/billing_best_practices.html)
