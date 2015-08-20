@@ -393,3 +393,16 @@ chmod 664 a.txt
 ## 2015-08-14
 
 - [Android: Security and Design](http://developer.android.com/google/play/billing/billing_best_practices.html)
+- [Free Sketch Sources](http://www.sketchappsources.com/all-free-sources.html)
+- [马蒂斯，剪子，梦与炼金术](http://www.douban.com/note/466593159/)
+- [全网访问速度优化](http://www.infoq.com/cn/presentations/speed-optimization-of-whole-network-access)
+
+## 2015-08-19
+
+- [Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
+- [mongoose github](https://github.com/Automattic/mongoose)
+
+## 2015-08-20
+
+- [三人一狗内电影院动画片段](https://www.youtube.com/watch?v=7s2OPdJ2ORE)
+- 
