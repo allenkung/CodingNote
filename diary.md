@@ -405,4 +405,32 @@ chmod 664 a.txt
 ## 2015-08-20
 
 - [三人一狗内电影院动画片段](https://www.youtube.com/watch?v=7s2OPdJ2ORE)
-- 
+- [starlit adventures](http://starlitadventures.com)
+- [Password-Generator-for-zsh](https://github.com/Xiphe/Password-Generator-for-zsh)
+
+## 2015-08-25
+
+- [大家静一静，我们要讲胶囊咖啡机了](http://www.jianshu.com/p/fa636da84e92#)
+
+## 2015-08-27
+
+- [What does void 0 mean?](http://stackoverflow.com/questions/7452341/what-does-void-0-mean)
+- [invision: design prototyping tool](http://www.invisionapp.com)
+
+## 2015-08-28
+
+- [zsh 小技巧](http://wulfric.me/2015/08/zsh/)
+- [理解HTTP/304响应](http://www.cnblogs.com/ziyunfei/archive/2012/11/17/2772729.html)
+
+> 服务器会读取到这两个请求头中的值,判断出客户端缓存的资源是否是最新的,如果是的话,服务器就会返回HTTP/304 Not Modified响应,但没有响应体.客户端收到304响应后,就会从缓存中读取对应的资源.
+> 
+> 另一种情况是,如果服务器认为客户端缓存的资源已经过期了,那么服务器就会返回HTTP/200 OK响应,响应体就是该资源当前最新的内容.客户端收到200响应后,就会用新的响应体覆盖掉旧的缓存资源.
+
+- [google QR generate API](https://developers.google.com/chart/infographics/docs/qr_codes)
+- [Get URL and URL Parts in JavaScript](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
+- [How to get the full url in express.js?](http://
+stackoverflow.com/questions/10183291/how-to-get-the-full-url-in-express-js)
+
+```
+var fullUrl = req.protocol + '://' + req.get('host') + req.originalUrl;
+```
