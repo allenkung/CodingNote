@@ -431,6 +431,22 @@ chmod 664 a.txt
 - [How to get the full url in express.js?](http://
 stackoverflow.com/questions/10183291/how-to-get-the-full-url-in-express-js)
 
+Express 获取 full url example:
+
 ```
 var fullUrl = req.protocol + '://' + req.get('host') + req.originalUrl;
 ```
+
+## 2015-09-06
+
+scp remote files to loacl
+
+	scp -P 57522 allen@speedybird.com:xxx.gz ./xxx.gz
+
+## 2015-09-07
+
+- [icns Onine convert](https://iconverticons.com/online/)
+- [Everyday Photo](http://zipzapmac.com/Everyday)
+- [OS X Human Interface Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAppearanceBehavior.html#//apple_ref/doc/uid/20000957-CH33-SW1)
+- [Git必懂指令](https://github.com/spitfire-sidra/git-tutorial/blob/master/source/commands.rst)
+- 
