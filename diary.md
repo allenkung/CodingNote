@@ -449,4 +449,25 @@ scp remote files to loacl
 - [Everyday Photo](http://zipzapmac.com/Everyday)
 - [OS X Human Interface Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAppearanceBehavior.html#//apple_ref/doc/uid/20000957-CH33-SW1)
 - [Git必懂指令](https://github.com/spitfire-sidra/git-tutorial/blob/master/source/commands.rst)
-- 
+- [mongo client: mongo-express (based on express.js) ](https://www.npmjs.com/package/mongo-express)
+
+## 2015-09-08
+
+- [JS随机整数的函数](http://huibin.iteye.com/blog/441286)
+
+```
+document.write(parseInt(10*Math.random())); 　//输出0～10之间的随机整数
+
+document.write(Math.floor(Math.random()*10+1)); 　//输出1～10之间的随机整数
+```
+- [JavaScript私有变量](http://www.qttc.net/201309372.html)
+
+判断 JS 空数组：
+
+```
+array.length == 0
+
+## 2015-09-10
+
+- [0基础怎样开始学习做网站（Ruby on Rails）](http://www.douban.com/note/512945304/)
+- [Everything I Wish I Knew When I Started Using GitHub](https://www.youtube.com/watch?v=KDUtjZHIx44&feature=em-subs_digest)
