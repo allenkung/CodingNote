@@ -471,3 +471,14 @@ array.length == 0
 
 - [0基础怎样开始学习做网站（Ruby on Rails）](http://www.douban.com/note/512945304/)
 - [Everything I Wish I Knew When I Started Using GitHub](https://www.youtube.com/watch?v=KDUtjZHIx44&feature=em-subs_digest)
+
+## 2015-09-14
+
+- SVG 不能跨域请求的问题
+
+	[Error] Unsafe attempt to load URL http://static3.gamebau.com/images/gamebau-icons.svg from frame with URL http://gamebau.com/games/rainbowpop. Domains, protocols and ports must match. (rainbowpop, line 96)
+
+- [比特币官网](https://bitcoin.org/zh_CN/)
+- [JavaScript 标准参考教程 - 数组](http://javascript.ruanyifeng.com/grammar/array.html)
+- [Tower JS 编辑器：simditor](http://simditor.tower.im)
+- 
