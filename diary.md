@@ -481,4 +481,60 @@ array.length == 0
 - [比特币官网](https://bitcoin.org/zh_CN/)
 - [JavaScript 标准参考教程 - 数组](http://javascript.ruanyifeng.com/grammar/array.html)
 - [Tower JS 编辑器：simditor](http://simditor.tower.im)
-- 
+
+## 2015-09-15
+
+- [Wordpress JSON plugin](https://wordpress.org/plugins/json-api/)
+	- [WP-JSON example](http://www.moma.org/explore/inside_out) 
+- [nodejs-demo](https://github.com/bsspirit/nodejs-demo)
+
+
+- 1.4 Schema.Types
+
+NodeJS中的基本数据类型都属于Schema.Type，另外Mongoose还定义了自己的类型
+
+    //举例：
+    var ExampleSchema = new Schema({
+      name:String,
+      binary:Buffer,
+      living:Boolean,
+      updated:Date,
+      age:Number,
+      mixed:Schema.Types.Mixed, //该混合类型等同于nested
+      _id:Schema.Types.ObjectId,  //主键
+      _fk:Schema.Types.ObjectId,  //外键
+      array:[],
+      arrOfString:[String],
+      arrOfNumber:[Number],
+      arrOfDate:[Date],
+      arrOfBuffer:[Buffer],
+      arrOfBoolean:[Boolean],
+      arrOfMixed:[Schema.Types.Mixed],
+      arrOfObjectId:[Schema.Types.ObjectId]
+      nested:{
+        stuff:String,
+      }
+    });
+    
+- **[\* Express-guide 中文翻译](http://sofish.github.io/express-guide/)**
+
+## 2015-09-16
+
+- [啟用 Mongolab 的 240M 免費 MongoDB 並在 node.js 中連線](http://elvisjeng.blogspot.com/2012/07/mongolab-240m-mongodb-nodejs.html)
+- [MongoDB入门学习](http://blog.csdn.net/rjfxd/article/details/12108909)
+- [Mongoose学习参考文档——基础篇](https://cnodejs.org/topic/504b4924e2b84515770103dd)
+- [Mongoose Official Getting Started](http://mongoosejs.com/docs/index.html)
+- [Mongoose使用案例–让JSON数据直接入库MongoDB](http://blog.fens.me/nodejs-mongoose-json/)
+- [Mongoose:Schema之路](http://www.edwardesire.com/the-way-to-mongoose-schema/)
+- [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
+- [Node.js(express) + MongoDB(mongoose) 简单开发（二）](http://www.lxway.com/45224244.htm)
+- [第1章 一个简单的博客 Express + MongoDB](https://github.com/nswbmw/N-blog/wiki/第1章--一个简单的博客)
+- Express GET/POST
+	- [使用 NodeJS + Express 從 GET/POST Request 取值](http://fred-zone.blogspot.com/2012/02/nodejs-express-getpost-request.html) 
+	- [node.js 下依赖Express 实现post 4种方式提交参数](http://yijiebuyi.com/blog/90c1381bfe0efb94cf9df932147552be.html)
+	- [Node.js+Express构建Http服务（GET方式和POST方式）](http://javacrazyer.iteye.com/blog/1936468)
+- [jQuery .val()](http://www.jquery123.com/val/)
+- [AE 视频合并增加总长度](http://jingyan.baidu.com/article/456c463b8beb050a583144b9.html)
+- [随页面加载动画弹出内容 www.appodeal.com](http://www.appodeal.com)
+- [What is the role of src and dist folders?](http://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)
+- [巴西游戏网站](http://www.vostu.com/en/#/home)
