@@ -538,3 +538,4 @@ NodeJS中的基本数据类型都属于Schema.Type，另外Mongoose还定义了�
 - [随页面加载动画弹出内容 www.appodeal.com](http://www.appodeal.com)
 - [What is the role of src and dist folders?](http://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)
 - [巴西游戏网站](http://www.vostu.com/en/#/home)
+- [pbpaste & pbcopy in Mac OS X (or: Terminal + Clipboard = Fun!)](https://langui.sh/2010/11/14/pbpaste-pbcopy-in-mac-os-x-or-terminal-clipboard-fun/)
