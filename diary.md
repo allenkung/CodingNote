@@ -466,6 +466,7 @@ document.write(Math.floor(Math.random()*10+1)); 　//输出1～10之间的随机
 
 ```
 array.length == 0
+```
 
 ## 2015-09-10
 
