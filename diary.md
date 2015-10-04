@@ -539,3 +539,13 @@ NodeJS中的基本数据类型都属于Schema.Type，另外Mongoose还定义了�
 - [What is the role of src and dist folders?](http://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)
 - [巴西游戏网站](http://www.vostu.com/en/#/home)
 - [pbpaste & pbcopy in Mac OS X (or: Terminal + Clipboard = Fun!)](https://langui.sh/2010/11/14/pbpaste-pbcopy-in-mac-os-x-or-terminal-clipboard-fun/)
+
+## 2015-10-05
+
+With certain Markdown implementations (including Mou) you can append =WIDTHxHEIGHT after the URL of the graphic file to resize the image. Do not forget the space before the =.
+
+	![](./pic/pic1_50.png =100x20)
+
+You can skip the HEIGHT
+
+	![](./pic/pic1s.png =250x)
