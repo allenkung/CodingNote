@@ -553,6 +553,6 @@ You can skip the HEIGHT
 	
 ## October 9, 2015
 
-- [gulp-ejs-pages](https://www.npmjs.com/package/gulp-ejs-pages/)
+- [gulp-ejs](https://www.npmjs.com/package/gulp-ejs/)
 - [gulp 入门指南](http://www.gulpjs.com.cn/docs/getting-started/)
 - 
