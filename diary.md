@@ -550,3 +550,9 @@ With certain Markdown implementations (including Mou) you can append =WIDTHxHEIG
 You can skip the HEIGHT
 
 	![](./pic/pic1s.png =250x)
+	
+## October 9, 2015
+
+- [gulp-ejs-pages](https://www.npmjs.com/package/gulp-ejs-pages/)
+- [gulp 入门指南](http://www.gulpjs.com.cn/docs/getting-started/)
+- 
