@@ -555,4 +555,11 @@ You can skip the HEIGHT
 
 - [gulp-ejs](https://www.npmjs.com/package/gulp-ejs/)
 - [gulp 入门指南](http://www.gulpjs.com.cn/docs/getting-started/)
+- [gulp-util](https://github.com/gulpjs/gulp-util)
+- [Gulp Plugins](http://gulpjs.com/plugins/)
+- [gulp-less](https://www.npmjs.com/package/gulp-less/)
+- [How can I integrate Bower with Gulp.js?](http://stackoverflow.com/questions/22901726/how-can-i-integrate-bower-with-gulp-js)
+- [main-bower-files](https://github.com/ck86/main-bower-files)
+- [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)
+- [gulp-content-includer--合并按模块引入的html文件](http://segmentfault.com/a/1190000001500298)
 - 
