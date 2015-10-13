@@ -562,4 +562,8 @@ You can skip the HEIGHT
 - [main-bower-files](https://github.com/ck86/main-bower-files)
 - [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)
 - [gulp-content-includer--合并按模块引入的html文件](http://segmentfault.com/a/1190000001500298)
-- 
+
+
+## October 13, 2015
+
+- [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
