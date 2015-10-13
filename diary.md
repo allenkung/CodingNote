@@ -563,6 +563,9 @@ You can skip the HEIGHT
 - [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)
 - [gulp-content-includer--合并按模块引入的html文件](http://segmentfault.com/a/1190000001500298)
 
+## October 12, 2015
+
+- [Javascript Array 之基本操作](http://hao.jser.com/archive/8504/)
 
 ## October 13, 2015
 
