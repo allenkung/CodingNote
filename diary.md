@@ -562,6 +562,7 @@ You can skip the HEIGHT
 - [main-bower-files](https://github.com/ck86/main-bower-files)
 - [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)
 - [gulp-content-includer--合并按模块引入的html文件](http://segmentfault.com/a/1190000001500298)
+- [“流式”前端构建工具——gulp.js 简介](http://segmentfault.com/a/1190000000435599)
 
 ## October 12, 2015
 
@@ -570,3 +571,24 @@ You can skip the HEIGHT
 ## October 13, 2015
 
 - [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
+- [Toy Defence: amazing transition animation](http://toy-defense.com/)
+- [Gulp自动压缩、合并文件并在引用文件的地方加hash](https://m.oschina.net/blog/371653)
+- [利用Gulp优化部署Web项目](http://imziv.com/blog/article/read.htm?id=60)
+- [Gulp学习指南之CSS合并、压缩与MD5命名及路径替换](http://segmentfault.com/a/1190000002932998)
+- [How can I integrate Bower with Gulp.js?](http://stackoverflow.com/questions/22901726/how-can-i-integrate-bower-with-gulp-js)
+
+## October 14, 2015
+
+- [CloudFS 基于阿里云 OSS 的文件系统](https://www.bitcasa.com/zh-CN/cloudfs/)
+- [莫让CDN服务成为小网站的瓶颈](http://mawenjian.net/p/631.html)
+
+## October 15, 2015
+
+- [Sketch 3 快捷键中英文备忘](http://www.jianshu.com/p/bf3e4a9e076e)
+- [300 Free Sketch Icons](http://www.aegeank.com/sketchactive/)
+- [SketchTips](http://www.sketchtips.info/)
+- [How to Improve Your UI Design Workflow in Sketch](https://medium.com/@kernism/ui-design-in-sketch-eef33bf3e69b)
+
+## October 16, 2015
+
+- [DoraCMS: NodeJS based CMS](https://git.oschina.net/doramart/DoraCMS)
