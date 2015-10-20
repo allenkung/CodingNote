@@ -592,3 +592,26 @@ You can skip the HEIGHT
 ## October 16, 2015
 
 - [DoraCMS: NodeJS based CMS](https://git.oschina.net/doramart/DoraCMS)
+
+## October 20, 2015
+
+- [App Icon Template](http://appicontemplate.com)
+- [Icon Reference Chart](http://iconhandbook.co.uk/reference/chart/ios/)
+- [zhihu: dp 这个单位是安卓发明的么？为什么 px=dp*（dpi/160）](http://www.zhihu.com/question/20697111)
+- [zhihu: px、dp、dip、dpi、sp 等到底有什么联系区别？产生的根源和设计时的影响如何？是否屏幕密度的决定原因？](http://www.zhihu.com/question/19625584)
+- [zhihu: DPI 和 PPI 的区别是什么？](http://www.zhihu.com/question/23770739)
+- [zhihu: Nodejs中，我将数据库连接后的实例对象放在global全局对象中，这样合理吗？](http://www.zhihu.com/question/36335900)
+- [Android Developers Doc: Devices and Displays](http://developer.android.com/design/style/devices-displays.html)
+- [Google Design Doc: Icons](https://www.google.com/design/spec/style/icons.html#)
+
+![Android App Icon Size](http://developer.android.com/design/media/devices_displays_density@2x.png)
+
+- [Typecast: 字体在线生成图片](http://typecast.com/)
+- [gulp-content-includer--合并按模块引入的html文件](http://segmentfault.com/a/1190000001500298)
+- [Flint: App 原型设计](https://www.flinto.com)
+
+- [CloudConvert: 在线转换视频 m4v to webm](https://cloudconvert.com)
+- [H5 全屏视频背景案例、源码](http://wow.techbrood.com/fiddle/89)
+- [Big Background Images websites](http://www.siteinspire.com/websites?categories=23)
+- [DP 和 PX 计算器](http://pixplicity.com/dp-px-converter/)
+- 
