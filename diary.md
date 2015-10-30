@@ -614,4 +614,48 @@ You can skip the HEIGHT
 - [H5 全屏视频背景案例、源码](http://wow.techbrood.com/fiddle/89)
 - [Big Background Images websites](http://www.siteinspire.com/websites?categories=23)
 - [DP 和 PX 计算器](http://pixplicity.com/dp-px-converter/)
-- 
+
+
+## October 23, 2015
+
+
+遍历所有目录（包括子任意目录）：
+
+```
+gulp.task('print', function() {
+  gulp.src('./source/admin/**/*.ejs')
+    .pipe(print())
+});
+```
+- [Debug Tool: gulp-print](https://www.npmjs.com/package/gulp-print)
+
+## October 26, 2015
+
+- [Text Editing in Sketch (also very clear layout for blog view)](https://www.designernews.co/stories/41063-text-editing-in-sketch)
+- [Bootstrap date range picker](http://www.daterangepicker.com)
+
+## October 27, 2015
+
+- [A Better Way To Design For Retina In Photoshop](http://www.smashingmagazine.com/2015/05/retina-design-in-photoshop/http://www.smashingmagazine.com/2015/05/retina-design-in-photoshop/)
+
+## October 28, 2015
+
+- [UnderScore.js Framework](http://underscorejs.org/)
+
+## October 29, 2015
+
+- [http://www.dafont.com/mikado.font](http://www.dafont.com/mikado.font)
+- [http://www.free-fonts.com/mikado-ultra](http://www.free-fonts.com/mikado-ultra)
+- [http://font2s.com/fonts/50959/mikado_ultra_italic.html#.VihUBLSqpBd](http://font2s.com/fonts/50959/mikado_ultra_italic.html#.VihUBLSqpBd)
+- [http://typecast.com/preview/myfonts/126327](http://typecast.com/preview/myfonts/126327)
+- [http://typecast.com/blog](http://typecast.com/blog)
+- [http://www.siteinspire.com/websites/5933-othoniel-studio](http://www.siteinspire.com/websites/5933-othoniel-studio)
+- [https://www.flinto.com/](https://www.flinto.com/)
+- [不要让托福口语表达过于肤浅](http://site.douban.com/176736/widget/notes/11649816/note/521621138/)
+- [【已然/未然】策展人：Katie Grand](http://site.douban.com/minshengart/widget/notes/14252663/note/522272255/)
+- [Slack 自动化机器人 Hubot](https://hubot.github.com)
+
+## October 30, 2015
+
+- [海岛奇兵开发商官网：supercell.com](http://supercell.com/en/)
+- [SVG WORLD MAP](http://www.amcharts.com/svg-maps/)
