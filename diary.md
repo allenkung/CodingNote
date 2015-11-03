@@ -659,3 +659,30 @@ gulp.task('print', function() {
 
 - [海岛奇兵开发商官网：supercell.com](http://supercell.com/en/)
 - [SVG WORLD MAP](http://www.amcharts.com/svg-maps/)
+
+## November 3, 2015
+
+Terminal 终端命令行
+
+重新定义单个图片尺寸长和宽（忽略比例）：
+
+	sips -z 768 1024 xxx.png
+
+768代表高度，1024代表长度，imge,png是你想要批量修改的图片名称
+
+重新定义单个图片尺寸（保留比例）：
+
+	sips -Z 500 xxx.png
+
+细心看，可以发现小写的“z”，变成了大写，要想保留图片原始比例就得这样做，比如你有一张宽度为900的图片，想规定长和宽最低像素值为500并保留比例，那么就可以执行以上命令。
+
+- [request - Simplified HTTP client](https://github.com/request/request)
+- [JSON.parse() JSON 数组处理函数](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+- [Calling a JSON API with Node.js](http://stackoverflow.com/questions/11826384/calling-a-json-api-with-node-js)
+- [七天学会NodeJS](https://nqdeng.github.io/7-days-nodejs/)
+
+- [CSS3 @font-face](http://www.w3school.com.cn/css3/css3_font.asp)
+- [Multiple font-face in CSS](http://stackoverflow.com/questions/4872592/multiple-font-face-in-css)
+- [Deploying Ghost with PM2 production](http://support.ghost.org/deploying-ghost/)
+- [sketch钻石党：Sketch设计效率冷门技巧](http://www.ui.cn/detail/41561.html)
+- 
