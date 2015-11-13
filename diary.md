@@ -687,3 +687,44 @@ Terminal 终端命令行
 - [sketch钻石党：Sketch设计效率冷门技巧](http://www.ui.cn/detail/41561.html)
 - [在线图片压缩 tinypng](https://tinypng.com/)
 - [超级图片压缩支持 svg](https://compressor.io/compress)
+
+## November 9, 2015
+
+- [svgo: nodejs based svg compress tool](https://github.com/svg/svgo)
+
+```
+$ svgo example.svg example.min.svg
+```
+
+- [理解SVG的viewport,viewBox,preserveAspectRatio](http://www.zhangxinxu.com/wordpress/2014/08/svg-viewport-viewbox-preserveaspectratio/)
+- [nrm 快速切换 NPM 源](https://github.com/i5ting/js-tools-best-practice/blob/master/doc/node.md)
+
+```
+// list available npm source
+$ nrm ls
+
+* npm ---- https://registry.npmjs.org/
+cnpm --- http://r.cnpmjs.org/
+taobao - http://registry.npm.taobao.org/
+eu ----- http://registry.npmjs.eu/
+au ----- http://registry.npmjs.org.au/
+sl ----- http://npm.strongloop.com/
+nj ----- https://registry.nodejitsu.com/
+
+// switch source
+$ nrm use taobao
+
+// add source
+$ nrm add  <registry> <url> [home]
+
+// delete source
+$ nrm del <registry>
+
+// test source speed
+$ nrm test
+```
+## November 11, 2015
+
+- [git command: **Stash** ](https://git-scm.com/book/zh/v1/Git-%E5%B7%A5%E5%85%B7-%E5%82%A8%E8%97%8F%EF%BC%88Stashing%EF%BC%89)
+- [阮一峰：Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
+- 
