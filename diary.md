@@ -727,4 +727,13 @@ $ nrm test
 
 - [git command: **Stash** ](https://git-scm.com/book/zh/v1/Git-%E5%B7%A5%E5%85%B7-%E5%82%A8%E8%97%8F%EF%BC%88Stashing%EF%BC%89)
 - [阮一峰：Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
+
+## November 25, 2015
+
+- [网易 youdao Hex: A Solution to Building Desktop Application Using HTML5 and Node.js](https://github.com/netease-youdao/hex)
+- [node-webkit is renamed NW.js](https://github.com/nwjs/nw.js)
+- [node-webkit实践－一键安装](http://segmentfault.com/a/1190000002453237)
+- [GitHub 如何基於 Node.js 和 Chromium 開發 Atom？](http://www.zhihu.com/question/23679877)
+- [Gitbook](https://www.gitbook.com)
+- [Vue.js: a library for building interactive web interfaces](https://github.com/vuejs/vue/)
 - 
