@@ -736,4 +736,15 @@ $ nrm test
 - [GitHub 如何基於 Node.js 和 Chromium 開發 Atom？](http://www.zhihu.com/question/23679877)
 - [Gitbook](https://www.gitbook.com)
 - [Vue.js: a library for building interactive web interfaces](https://github.com/vuejs/vue/)
+
+## December 4, 2015
+
+- [mongoDB数据库设置用户名及密码](http://blog.csdn.net/wycf1314/article/details/10225921)
+- [Default MongoDB Port](https://docs.mongodb.org/manual/reference/default-mongodb-port/)
+- [UniWebView 2 price](http://uniwebview.onevcat.com/buy)
+- [用 Express 和 MongoDB 寫一個 todo list](http://dreamerslab.com/blog/tw/write-a-todo-list-with-express-and-mongodb/)
+- [部署 Node.js+MongoDB App](http://draveness.me/bu-shu-node-jsmongodb-ying-yong/)
+- [Mac下安装MongoDB 及使用教程](http://segmentfault.com/a/1190000002547229)
+- [mac 下用 brew 安装mongodb](http://yijiebuyi.com/blog/b6a3f4a726b9c0454e28156dcc96c342.html)
+- [Mongoose学习参考文档——基础篇](https://cnodejs.org/topic/504b4924e2b84515770103dd)
 - 
