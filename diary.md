@@ -747,4 +747,14 @@ $ nrm test
 - [Mac下安装MongoDB 及使用教程](http://segmentfault.com/a/1190000002547229)
 - [mac 下用 brew 安装mongodb](http://yijiebuyi.com/blog/b6a3f4a726b9c0454e28156dcc96c342.html)
 - [Mongoose学习参考文档——基础篇](https://cnodejs.org/topic/504b4924e2b84515770103dd)
+
+## December 10, 2015
+
+- [koajs by express](http://koajs.com)
+- [以express的方式学习koa](http://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&mid=406366348&idx=1&sn=3b34cea88fd546daef8fbf6768a7f05e&scene=0&key=ac89cba618d2d976e14e32ca62496b9eb5de91f7d6e09bf818a35d55d9ad491a28e200e6bccd9f3a14b0c2d975a0ebd6&ascene=0&uin=MTczNTAxMjYwMA%3D%3D&devicetype=iMac+MacBookPro5%2C3+OSX+OSX+10.9.5+build(13F1134)&version=11020201&pass_ticket=IVgqR7NNEn2gYMOtvOT1i8xqs4s%2BdHZ%2FgD2guB3oAlIkoD9M1DgdPDPsg%2BgG63X6)
+- [iTunes Connect App Properties](https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Appendices/Properties.html#//apple_ref/doc/uid/TP40011225-CH26-SW2)
+- [jquery .serialize() 表单序列化](http://www.jquery123.com/serialize/)
+- [jquery .serializeArray() 表单数组化](http://www.jquery123.com/serializeArray/)
+- [vue.js](http://cn.vuejs.org/guide/index.html)
+- [app 数据统计](https://www.appannie.com)
 - 
