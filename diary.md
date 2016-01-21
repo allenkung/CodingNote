@@ -786,5 +786,56 @@ $ nrm test
 - [ubuntu修改ssh端口](http://note.axiaoxin.com/contents/change-ubuntu-ssh-port.html)
 - [Installing Node.js via package manager](https://github.com/nodejs/node-v0.x-archive/wiki/Installing-Node.js-via-package-manager)
 - [CentOS 6.x 安装 LNMP + WordPress](http://www.alanoy.com/)
-- [Hubot])https://hubot.github.com
+- [Hubot](https://hubot.github.com)
+
+## January 5, 2016
+
+### 查看Apache运行用户和组
+
+只需要运行一下命令即可知道
+
+    ps -ef |grep httpd
+    
+运行之后就显示了httpd进程的运行用户
+当然也可以通过查看apache的httpd.conf配置文件来查看apache运行用户和组.
+
+4.配置Nginx，修复权限
+
+通过以上方式实际上已经可以开始WordPress的安装了，但是nginx的默认用户是www-data，通过以下文件可以看到:
+
+    $ cat /etc/nginx/nginx.conf
+    
+如果/usr/share/nginx/html/目录的所有者不是www-data的话，就会造成安装完成后更新wordpress的时候需要输入FTP信息，实际上就算安装了FTP服务器也没用，因为这是权限的问题，下面我们就来修复权限，将默认目录的所有权交给www-data用户。
+
+    sudo chgrp -R www-data /usr/share/nginx/html/
+    sudo chown -R www-data:www-data /usr/share/nginx/html/
+    
+接下来，重启，使配置生效:
+
+    sudo service nginx restart
+
+- [Open Source SSL: letsencrypt](https://letsencrypt.org)
+
+## January 11, 2016
+
+- [Node.js 应用程序的 5 条性能建议](http://zhuanlan.zhihu.com/FrontendMagazine/20432208)
+- [29个前端工程师和设计师必备的Chrome插件](http://www.waerfa.com/twenty-nine-chrome-plugins-for-web-developers-and-designers)
+- [vue、react和angular 2.x谁是2016年的主流？](https://www.zhihu.com/question/38989845#answer-27113928)
+
+## January 21, 2016
+
+- [传统轮询、长轮询、服务器发送事件与WebSocket](http://blog.zhangruipeng.me/2015/10/22/Web-Connectivity/)
+- [Nginx 安装SSL证书步骤](https://seonoco.com/blog/nginx-install-ssl-certificate-steps)
+- [SSL证书的购买与Nginx下的配置](https://ruby-china.org/topics/9373)
+- [Using HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
+- [Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
+- [MongoDB 创建一个自增的序列字段](http://docs.mongoing.com/manual/tutorial/create-an-auto-incrementing-field.html)
+- [深入浅出REST](http://www.infoq.com/cn/articles/rest-introduction)
+- [理解本真的REST架构风格](http://www.infoq.com/cn/articles/understanding-restful-style)
+- [学习RESTful API](http://leechan.me/?p=1714)
+- [阮一峰：理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+- [How to create database in MongoDB](http://www.mkyong.com/mongodb/how-to-create-database-or-collection-in-mongodb/)
+- [Homebrew 使用实例(在mac上安装mongoDB)亲测](http://blog.sina.com.cn/s/blog_7c8dc2d50101lwka.html)
+- [Mac下安装MongoDB 及使用教程](https://segmentfault.com/a/1190000002547229#articleHeader18)
+- [mac 下用 brew 安装mongodb](http://yijiebuyi.com/blog/b6a3f4a726b9c0454e28156dcc96c342.html)
 - 
