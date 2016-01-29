@@ -838,4 +838,5 @@ $ nrm test
 - [Homebrew 使用实例(在mac上安装mongoDB)亲测](http://blog.sina.com.cn/s/blog_7c8dc2d50101lwka.html)
 - [Mac下安装MongoDB 及使用教程](https://segmentfault.com/a/1190000002547229#articleHeader18)
 - [mac 下用 brew 安装mongodb](http://yijiebuyi.com/blog/b6a3f4a726b9c0454e28156dcc96c342.html)
+- [Why Walmart is using Node.js](http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
 - 
