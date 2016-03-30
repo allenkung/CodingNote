@@ -95,7 +95,7 @@
     - [node-localize](https://github.com/AGROSICA/node-localize)
     - [Nodejs - Internationalization in Express with i18n and i18n-2](https://truongtx.me/2014/03/20/nodejs-internationalization-in-express-with-i18n-i18n-2/)
     - [网站国际化(i18n)应该怎么做？i18n-node + handlebars实现的例子](http://segmentfault.com/a/1190000002632604)
-    
+
 
 ### Grunt
 
@@ -178,7 +178,7 @@ app.get('/', function(req, res) {
 - [\* Node.js企业开发: 四正式环境部署](http://n.thepana.com/2014/01/25/application_deploy/)
 - [一种简单的生产环境部署Node.js程序方法](https://cnodejs.org/topic/53fec0d97c1e2284788983d6)
 - [How To Set Up a Node.js Application for Production on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04)
-- 
+-
 
 ### JS
 
@@ -423,7 +423,7 @@ chmod 664 a.txt
 - [理解HTTP/304响应](http://www.cnblogs.com/ziyunfei/archive/2012/11/17/2772729.html)
 
 > 服务器会读取到这两个请求头中的值,判断出客户端缓存的资源是否是最新的,如果是的话,服务器就会返回HTTP/304 Not Modified响应,但没有响应体.客户端收到304响应后,就会从缓存中读取对应的资源.
-> 
+>
 > 另一种情况是,如果服务器认为客户端缓存的资源已经过期了,那么服务器就会返回HTTP/200 OK响应,响应体就是该资源当前最新的内容.客户端收到200响应后,就会用新的响应体覆盖掉旧的缓存资源.
 
 - [google QR generate API](https://developers.google.com/chart/infographics/docs/qr_codes)
@@ -486,7 +486,7 @@ array.length == 0
 ## 2015-09-15
 
 - [Wordpress JSON plugin](https://wordpress.org/plugins/json-api/)
-	- [WP-JSON example](http://www.moma.org/explore/inside_out) 
+	- [WP-JSON example](http://www.moma.org/explore/inside_out)
 - [nodejs-demo](https://github.com/bsspirit/nodejs-demo)
 
 
@@ -516,7 +516,7 @@ NodeJS中的基本数据类型都属于Schema.Type，另外Mongoose还定义了�
         stuff:String,
       }
     });
-    
+
 - **[\* Express-guide 中文翻译](http://sofish.github.io/express-guide/)**
 
 ## 2015-09-16
@@ -531,7 +531,7 @@ NodeJS中的基本数据类型都属于Schema.Type，另外Mongoose还定义了�
 - [Node.js(express) + MongoDB(mongoose) 简单开发（二）](http://www.lxway.com/45224244.htm)
 - [第1章 一个简单的博客 Express + MongoDB](https://github.com/nswbmw/N-blog/wiki/第1章--一个简单的博客)
 - Express GET/POST
-	- [使用 NodeJS + Express 從 GET/POST Request 取值](http://fred-zone.blogspot.com/2012/02/nodejs-express-getpost-request.html) 
+	- [使用 NodeJS + Express 從 GET/POST Request 取值](http://fred-zone.blogspot.com/2012/02/nodejs-express-getpost-request.html)
 	- [node.js 下依赖Express 实现post 4种方式提交参数](http://yijiebuyi.com/blog/90c1381bfe0efb94cf9df932147552be.html)
 	- [Node.js+Express构建Http服务（GET方式和POST方式）](http://javacrazyer.iteye.com/blog/1936468)
 - [jQuery .val()](http://www.jquery123.com/val/)
@@ -550,7 +550,7 @@ With certain Markdown implementations (including Mou) you can append =WIDTHxHEIG
 You can skip the HEIGHT
 
 	![](./pic/pic1s.png =250x)
-	
+
 ## October 9, 2015
 
 - [gulp-ejs](https://www.npmjs.com/package/gulp-ejs/)
@@ -795,7 +795,7 @@ $ nrm test
 只需要运行一下命令即可知道
 
     ps -ef |grep httpd
-    
+
 运行之后就显示了httpd进程的运行用户
 当然也可以通过查看apache的httpd.conf配置文件来查看apache运行用户和组.
 
@@ -804,12 +804,12 @@ $ nrm test
 通过以上方式实际上已经可以开始WordPress的安装了，但是nginx的默认用户是www-data，通过以下文件可以看到:
 
     $ cat /etc/nginx/nginx.conf
-    
+
 如果/usr/share/nginx/html/目录的所有者不是www-data的话，就会造成安装完成后更新wordpress的时候需要输入FTP信息，实际上就算安装了FTP服务器也没用，因为这是权限的问题，下面我们就来修复权限，将默认目录的所有权交给www-data用户。
 
     sudo chgrp -R www-data /usr/share/nginx/html/
     sudo chown -R www-data:www-data /usr/share/nginx/html/
-    
+
 接下来，重启，使配置生效:
 
     sudo service nginx restart
@@ -839,4 +839,9 @@ $ nrm test
 - [Mac下安装MongoDB 及使用教程](https://segmentfault.com/a/1190000002547229#articleHeader18)
 - [mac 下用 brew 安装mongodb](http://yijiebuyi.com/blog/b6a3f4a726b9c0454e28156dcc96c342.html)
 - [Why Walmart is using Node.js](http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
-- 
+
+
+##
+
+Windows 10的锁屏壁纸都存放在C:\Users\Yourname\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets的文件夹下。
+-
